@@ -1,7 +1,7 @@
 # Weather Dashboard
 06 Server-Side APIs: Weather Dashboard
 
-Link to app: 
+Link to app: https://mattcross01.github.io/LocalWeatherDashboard/
 
 <img src="screenshots/weather-dash2.PNG">
 
